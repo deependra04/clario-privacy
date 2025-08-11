@@ -8,7 +8,7 @@ Clario is a Chrome extension that enhances AI prompts on platforms like ChatGPT,
 
 ## Privacy Policy
 
-The privacy policy is available at: [https://yourusername.github.io/clario-privacy](https://yourusername.github.io/clario-privacy)
+The privacy policy is available at: [https://deependra04.github.io/clario-privacy/](https://deependra04.github.io/clario-privacy/)
 
 ## Features
 
